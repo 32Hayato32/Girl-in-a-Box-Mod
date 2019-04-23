@@ -1,0 +1,16 @@
+[
+{
+  "modid": "girlinaboxmod",
+  "name": "Girl in a Box Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Hayato Maka",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
